@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/final_deploy/static/js/main.db639983.js",
+    "index.html": "/final_deploy/index.html",
+    "main.db639983.js.map": "/final_deploy/static/js/main.db639983.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.db639983.js"
+  ]
+}
